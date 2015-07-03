@@ -7,7 +7,7 @@ HOOK
     
 Method Swizzling  
 -----------------------------------  
- 
+   本Demo只能实现实例方法的替换 , 类方法的替换可以参考HookClassMethods
     
 ### ViewController  
   在ViewController类里面 创建了两个UIButton , 一个红色, 一个蓝色, title 分别是我是红色Button ,我是蓝色Button
